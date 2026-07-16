@@ -153,7 +153,9 @@ Analysis of prediction errors vs. actual price reveals:
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn, XGBoost
 
 ---
+## Presentation
 
+Full presentation slides available here: [Presentation.pdf](Presentation.pdf)
 ## Team
 
 | Name | ID |
