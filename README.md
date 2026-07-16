@@ -156,6 +156,9 @@ Analysis of prediction errors vs. actual price reveals:
 ## Presentation
 
 Full presentation slides available here: [Presentation.pdf](Presentation.pdf)
+
+---
+
 ## Team
 
 | Name | ID |
