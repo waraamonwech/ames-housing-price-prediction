@@ -1,7 +1,7 @@
 # Ames Housing Price Prediction
 
 Machine Learning project predicting residential house sale prices using advanced regression techniques, based on the classic **Ames Housing Dataset** (Ames, Iowa, USA).
-
+https://www.kaggle.com/code/alexisbcook/exercise-introduction/notebook
 ---
 
 ## Overview
